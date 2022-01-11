@@ -3,4 +3,4 @@ NotesToSong is an educational website that automatically converts a student's sc
 
 
 
-In collaboration with @nevadasrini, who developed the front-end, as well as the backend code controlling rhyming.
+In collaboration with @nevadasrini.
